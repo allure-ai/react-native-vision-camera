@@ -1,5 +1,5 @@
 {
-  "name": "react-native-vision-camera",
+  "name": "@allure-ai/react-native-vision-camera",
   "version": "2.11.2",
   "description": "The Camera library that sees the vision.",
   "main": "lib/commonjs/index",
@@ -58,15 +58,16 @@
     "qr-code",
     "scanner"
   ],
-  "repository": "https://github.com/mrousavy/react-native-vision-camera",
+  "repository": "https://github.com/allure-ai/react-native-vision-camera",
   "author": "Marc Rousavy <marcrousavy@hotmail.com> (https://github.com/mrousavy)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrousavy/react-native-vision-camera/issues"
+    "url": "https://github.com/allure-ai/react-native-vision-camera/issues"
   },
   "homepage": "https://mrousavy.github.io/react-native-vision-camera/",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@expo/config-plugins": "^4.0.0",
